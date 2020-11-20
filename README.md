@@ -12,7 +12,7 @@
   <br>
   <a href="https://github.com/BurningTiles"><img src="text.png"></a>
   <br>
-  Printed Text
+  Text
   <br>
 </h2>
 
